@@ -1,5 +1,5 @@
 {
-    "name":         "werkint.codemirror",
+    "name":         "jquery.codemirror",
     "version":      "0.0.1",
     "dependencies": {
         "requirejs.css":  "*",
@@ -8,7 +8,7 @@
     },
     "main":         [
         "codemirror.js",
-        "lib/codemirror.js",
-        "lib/codemirror.css"
+        "codemirror/codemirror.js",
+        "codemirror/codemirror.css"
     ]
 }

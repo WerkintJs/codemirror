@@ -1,5 +1,5 @@
 {
   "ignored": {
-    "werkint.codemirror": true
+    "jquery.codemirror": true
   }
 }
