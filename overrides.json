@@ -2,6 +2,12 @@
   "ignored": {
     "jquery.codemirror": true,
     "codemirror": true
-
+  },
+  "codemirror": {
+    "main": [
+      "lib/codemirror.css",
+      "lib/codemirror.js",
+      "mode/twig/twig.js"
+    ]
   }
 }
