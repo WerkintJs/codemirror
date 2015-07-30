@@ -7,7 +7,6 @@
     },
     "main":         [
         "codemirror.js",
-        "codemirror/codemirror.js",
         "codemirror/codemirror.css"
     ]
 }
