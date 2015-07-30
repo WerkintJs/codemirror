@@ -1,4 +1,4 @@
 define([
-  'lib/codemirror',
-  'css!lib/codemirror',
+  'codemirror/codemirror',
+  'css!codemirror/codemirror',
 ], function(){});
