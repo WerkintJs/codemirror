@@ -4,7 +4,7 @@
     "dependencies": {
         "requirejs.css":  "*",
         "jquery":         "*",
-        "codemirror".
+        "codemirror"
     },
     "main":         [
         "codemirror.js",
