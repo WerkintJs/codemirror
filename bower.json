@@ -1,0 +1,14 @@
+{
+    "name":         "werkint.codemirror",
+    "version":      "0.0.1",
+    "dependencies": {
+        "requirejs.css":  "*",
+        "dropzone":       "*",
+        "jquery":         "*"
+    },
+    "main":         [
+        "codemirror.js",
+        "lib/codemirror.js",
+        "lib/codemirror.css"
+    ]
+}
