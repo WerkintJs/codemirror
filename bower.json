@@ -9,6 +9,7 @@
     "main":         [
         "codemirror.js",
         "lib/codemirror.css",
+        "lib/codemirror.js",
         "mode/twig/twig.js"
     ]
 }
