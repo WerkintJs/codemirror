@@ -1,5 +1,7 @@
 {
   "ignored": {
+    "jquery.codemirror": true,
     "codemirror": true
+
   }
 }
