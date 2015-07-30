@@ -3,10 +3,11 @@
     "version":      "0.0.1",
     "dependencies": {
         "requirejs.css":  "*",
-        "jquery":         "*"
+        "jquery":         "*",
+        "codemirror".
     },
     "main":         [
         "codemirror.js",
-        "codemirror/codemirror.css"
+        "lib/codemirror.css"
     ]
 }
