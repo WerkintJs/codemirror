@@ -9,7 +9,10 @@
       "lib/codemirror.js",
       "mode/twig/twig.js",
       "addon/mode/multiplex.js",
-      "mode/htmlmixed/htmlmixed.js*"
+      "mode/htmlmixed/htmlmixed.js*",
+      "mode/xml/xml.js",
+      "mode/javascript/javascript.js",
+      "mode/css/css.js"
     ]
   }
 }
