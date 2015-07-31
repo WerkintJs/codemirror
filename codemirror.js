@@ -5,14 +5,5 @@ define([
         'addon/mode/multiplex'
     ],function(CodeMirror){
 
-    CodeMirror.defineMode("twig_html", function (config) {
-        return CodeMirror.multiplexingMode (
-            CodeMirror.getMode(config, "text/html"), {
-                open: /\{[%#]/, close: /[%#]\}/,
-                mode: CodeMirror.getMode(config, "twig"),
-                parseDelimiters: true
-            });
-    });
-
     return CodeMirror;
 });
