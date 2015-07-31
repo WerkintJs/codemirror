@@ -2,7 +2,7 @@ define([
         'lib/codemirror',
         'css!lib/codemirror',
         'mode/twig/twig',
-        'mode/multiplex'
+        'addon/mode/multiplex'
     ],function(CodeMirror){
 
     CodeMirror.defineMode("twig_html", function (config) {
