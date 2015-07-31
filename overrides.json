@@ -8,7 +8,7 @@
       "lib/codemirror.css",
       "lib/codemirror.js",
       "mode/twig/twig.js",
-      "mode/multiplex.js"
+      "addon/mode/multiplex.js"
     ]
   }
 }

@@ -14,5 +14,5 @@ define([
             });
     });
 
-    return CodeMirror
+    return CodeMirror;
 });
