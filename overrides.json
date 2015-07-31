@@ -7,9 +7,8 @@
     "main": [
       "lib/codemirror.css",
       "lib/codemirror.js",
-      "mode/twig/twig.js",
       "addon/mode/multiplex.js",
-      "mode/htmlmixed/htmlmixed"
+      "mode/*"
     ]
   }
 }
